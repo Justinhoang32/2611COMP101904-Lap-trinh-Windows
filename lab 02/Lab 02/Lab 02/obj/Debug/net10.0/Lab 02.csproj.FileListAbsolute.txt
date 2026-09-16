@@ -1,0 +1,16 @@
+C:\DEV WIN\baitapwin\2611COMP101904-Lap-trinh-Windows\lab 02\Lab 02\Lab 02\bin\Debug\net10.0\Lab 02.exe
+C:\DEV WIN\baitapwin\2611COMP101904-Lap-trinh-Windows\lab 02\Lab 02\Lab 02\bin\Debug\net10.0\Lab 02.deps.json
+C:\DEV WIN\baitapwin\2611COMP101904-Lap-trinh-Windows\lab 02\Lab 02\Lab 02\bin\Debug\net10.0\Lab 02.runtimeconfig.json
+C:\DEV WIN\baitapwin\2611COMP101904-Lap-trinh-Windows\lab 02\Lab 02\Lab 02\bin\Debug\net10.0\Lab 02.dll
+C:\DEV WIN\baitapwin\2611COMP101904-Lap-trinh-Windows\lab 02\Lab 02\Lab 02\bin\Debug\net10.0\Lab 02.pdb
+C:\DEV WIN\baitapwin\2611COMP101904-Lap-trinh-Windows\lab 02\Lab 02\Lab 02\obj\Debug\net10.0\Lab 02.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEV WIN\baitapwin\2611COMP101904-Lap-trinh-Windows\lab 02\Lab 02\Lab 02\obj\Debug\net10.0\Lab 02.AssemblyInfoInputs.cache
+C:\DEV WIN\baitapwin\2611COMP101904-Lap-trinh-Windows\lab 02\Lab 02\Lab 02\obj\Debug\net10.0\Lab 02.AssemblyInfo.cs
+C:\DEV WIN\baitapwin\2611COMP101904-Lap-trinh-Windows\lab 02\Lab 02\Lab 02\obj\Debug\net10.0\Lab 02.csproj.CoreCompileInputs.cache
+C:\DEV WIN\baitapwin\2611COMP101904-Lap-trinh-Windows\lab 02\Lab 02\Lab 02\obj\Debug\net10.0\Lab 02.sourcelink.json
+C:\DEV WIN\baitapwin\2611COMP101904-Lap-trinh-Windows\lab 02\Lab 02\Lab 02\obj\Debug\net10.0\Lab 02.dll
+C:\DEV WIN\baitapwin\2611COMP101904-Lap-trinh-Windows\lab 02\Lab 02\Lab 02\obj\Debug\net10.0\refint\Lab 02.dll
+C:\DEV WIN\baitapwin\2611COMP101904-Lap-trinh-Windows\lab 02\Lab 02\Lab 02\obj\Debug\net10.0\Lab 02.pdb
+C:\DEV WIN\baitapwin\2611COMP101904-Lap-trinh-Windows\lab 02\Lab 02\Lab 02\obj\Debug\net10.0\Lab 02.genruntimeconfig.cache
+C:\DEV WIN\baitapwin\2611COMP101904-Lap-trinh-Windows\lab 02\Lab 02\Lab 02\obj\Debug\net10.0\ref\Lab 02.dll
+C:\DEV WIN\baitapwin\2611COMP101904-Lap-trinh-Windows\lab 02\Lab 02\Lab 02\obj\Debug\net10.0\Lab 02.csproj.Up2Date

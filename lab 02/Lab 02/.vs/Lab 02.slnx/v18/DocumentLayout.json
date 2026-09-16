@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\DEV WIN\\baitapwin\\2611COMP101904-Lap-trinh-Windows\\lab 02\\Lab 02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AB970A02-B4DD-4DBE-A7BC-83C7D795DF81}|Lab 02\\Lab 02.csproj|c:\\dev win\\baitapwin\\2611comp101904-lap-trinh-windows\\lab 02\\lab 02\\lab 02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB970A02-B4DD-4DBE-A7BC-83C7D795DF81}|Lab 02\\Lab 02.csproj|solutionrelative:lab 02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB970A02-B4DD-4DBE-A7BC-83C7D795DF81}|Lab 02\\Lab 02.csproj|c:\\dev win\\baitapwin\\2611comp101904-lap-trinh-windows\\lab 02\\lab 02\\lab 02\\lab 02.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AB970A02-B4DD-4DBE-A7BC-83C7D795DF81}|Lab 02\\Lab 02.csproj|solutionrelative:lab 02\\lab 02.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB970A02-B4DD-4DBE-A7BC-83C7D795DF81}|Lab 02\\Lab 02.csproj|c:\\dev win\\baitapwin\\2611comp101904-lap-trinh-windows\\lab 02\\lab 02\\lab 02\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{AB970A02-B4DD-4DBE-A7BC-83C7D795DF81}|Lab 02\\Lab 02.csproj|solutionrelative:lab 02\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Lab 02",
+              "DocumentMoniker": "C:\\DEV WIN\\baitapwin\\2611COMP101904-Lap-trinh-Windows\\lab 02\\Lab 02\\Lab 02\\Lab 02.csproj",
+              "RelativeDocumentMoniker": "Lab 02\\Lab 02.csproj",
+              "ToolTip": "C:\\DEV WIN\\baitapwin\\2611COMP101904-Lap-trinh-Windows\\lab 02\\Lab 02\\Lab 02\\Lab 02.csproj",
+              "RelativeToolTip": "Lab 02\\Lab 02.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-15T17:35:57.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\DEV WIN\\baitapwin\\2611COMP101904-Lap-trinh-Windows\\lab 02\\Lab 02\\Lab 02\\README.md",
+              "RelativeDocumentMoniker": "Lab 02\\README.md",
+              "ToolTip": "C:\\DEV WIN\\baitapwin\\2611COMP101904-Lap-trinh-Windows\\lab 02\\Lab 02\\Lab 02\\README.md",
+              "RelativeToolTip": "Lab 02\\README.md",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAEQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-09-15T17:26:24.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\DEV WIN\\baitapwin\\2611COMP101904-Lap-trinh-Windows\\lab 02\\Lab 02\\Lab 02\\Program.cs",
+              "RelativeDocumentMoniker": "Lab 02\\Program.cs",
+              "ToolTip": "C:\\DEV WIN\\baitapwin\\2611COMP101904-Lap-trinh-Windows\\lab 02\\Lab 02\\Lab 02\\Program.cs",
+              "RelativeToolTip": "Lab 02\\Program.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAlwHUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T17:16:45.598Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
