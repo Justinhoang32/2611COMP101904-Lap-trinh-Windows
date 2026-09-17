@@ -1,5 +1,5 @@
 # 2611COMP101904-Lap-trinh-Windows
-## 51.01.104.066
-## Hoàng Minh Nhật
-## CNTT C
-## Nhóm 5
+## MSSV: 51.01.104.066
+## Họ và Tên: Hoàng Minh Nhật
+## Lớp: 51.01.CNTT C
+## Nhóm: 5

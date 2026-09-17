@@ -1,14 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\DEV WIN\\baitapwin\\2611COMP101904-Lap-trinh-Windows\\lab 02\\Lab 02\\",
+  "WorkspaceRootPath": "C:\\DEV WIN\\baitapwin\\2611COMP101904-Lap-trinh-Windows\\lab 02\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{00A3C4FB-372B-392A-1C51-17310AD43AEF}|Lab 02\\Lab 02.csproj|c:\\dev win\\baitapwin\\2611comp101904-lap-trinh-windows\\lab 02\\lab 02\\lab 02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{00A3C4FB-372B-392A-1C51-17310AD43AEF}|Lab 02\\Lab 02.csproj|solutionrelative:lab 02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\DEV WIN\\baitapwin\\2611COMP101904-Lap-trinh-Windows\\lab 02\\Lab 02\\Lab 02\\Lab 02.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lab 02\\Lab 02\\Lab 02.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{00A3C4FB-372B-392A-1C51-17310AD43AEF}|Lab 02\\Lab 02.csproj|c:\\dev win\\baitapwin\\2611comp101904-lap-trinh-windows\\lab 02\\lab 02\\lab 02\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{00A3C4FB-372B-392A-1C51-17310AD43AEF}|Lab 02\\Lab 02.csproj|solutionrelative:lab 02\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\DEV WIN\\baitapwin\\2611COMP101904-Lap-trinh-Windows\\lab 02\\Lab 02\\Lab 02\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lab 02\\Lab 02\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\DEV WIN\\baitapwin\\2611COMP101904-Lap-trinh-Windows\\lab 02\\Lab 02\\Lab 02\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lab 02\\Lab 02\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,27 +35,35 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\DEV WIN\\baitapwin\\2611COMP101904-Lap-trinh-Windows\\lab 02\\Lab 02\\Lab 02\\Program.cs",
-              "RelativeDocumentMoniker": "Lab 02\\Program.cs",
-              "ToolTip": "C:\\DEV WIN\\baitapwin\\2611COMP101904-Lap-trinh-Windows\\lab 02\\Lab 02\\Lab 02\\Program.cs",
-              "RelativeToolTip": "Lab 02\\Program.cs",
-              "ViewState": "AgIAAI0AAAAAAAAAAAAYwJQAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-15T17:16:45.598Z",
-              "EditorCaption": ""
+              "Title": "Lab 02.csproj",
+              "DocumentMoniker": "C:\\DEV WIN\\baitapwin\\2611COMP101904-Lap-trinh-Windows\\lab 02\\Lab 02\\Lab 02\\Lab 02.csproj",
+              "RelativeDocumentMoniker": "Lab 02\\Lab 02\\Lab 02.csproj",
+              "ToolTip": "C:\\DEV WIN\\baitapwin\\2611COMP101904-Lap-trinh-Windows\\lab 02\\Lab 02\\Lab 02\\Lab 02.csproj",
+              "RelativeToolTip": "Lab 02\\Lab 02\\Lab 02.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-15T17:35:57.09Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "README.md",
               "DocumentMoniker": "C:\\DEV WIN\\baitapwin\\2611COMP101904-Lap-trinh-Windows\\lab 02\\Lab 02\\Lab 02\\README.md",
-              "RelativeDocumentMoniker": "Lab 02\\README.md",
+              "RelativeDocumentMoniker": "Lab 02\\Lab 02\\README.md",
               "ToolTip": "C:\\DEV WIN\\baitapwin\\2611COMP101904-Lap-trinh-Windows\\lab 02\\Lab 02\\Lab 02\\README.md",
-              "RelativeToolTip": "Lab 02\\README.md",
-              "ViewState": "AgIAADAAAAAAAAAAAAAAAD4AAAA/AAAAAAAAAA==",
+              "RelativeToolTip": "Lab 02\\Lab 02\\README.md",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
               "WhenOpened": "2026-09-15T17:26:24.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\DEV WIN\\baitapwin\\2611COMP101904-Lap-trinh-Windows\\lab 02\\Lab 02\\Lab 02\\Program.cs",
+              "RelativeDocumentMoniker": "Lab 02\\Lab 02\\Program.cs",
+              "ToolTip": "C:\\DEV WIN\\baitapwin\\2611COMP101904-Lap-trinh-Windows\\lab 02\\Lab 02\\Lab 02\\Program.cs",
+              "RelativeToolTip": "Lab 02\\Lab 02\\Program.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T17:16:45.598Z"
             }
           ]
         }

@@ -1,10 +1,10 @@
 # BÁO CÁO KẾT QUẢ THỰC HÀNH LAB 01
 
-2611COMP101904-Lap-trinh-Windows
-Bài Lab: Lab 01 - Ứng dụng Thông tin Cá nhân
-Họ tên sinh viên: Hoàng Minh Nhật
-MSSV: 51.01.104.066
-Nhóm 5
+## 2611COMP101904-Lap-trinh-Windows
+## Bài Lab: Lab 01 - Ứng dụng Thông tin Cá nhân
+## Họ tên sinh viên: Hoàng Minh Nhật
+## MSSV: 51.01.104.066
+## Nhóm 5
 
 ---
 
@@ -33,7 +33,7 @@ Danh sách control đã sử dụng:
 
 **Hình ảnh giao diện Form (thiết kế lúc chưa nhập liệu):**
 
-`![Giao diện thiết kế Form](giaodientkeform.png)`
+![Giao diện thiết kế Form](image/giaodientkeform.png)
 
 **Mô tả:**
 > Ghi chú mô tả bố cục giao diện: các control được sắp xếp như thế nào, GroupBox nhóm giới tính, vị trí các nút lệnh...
@@ -47,7 +47,7 @@ Mô tả cách xử lý sự kiện Click của nút `btnHienThi`: kiểm tra d�
 **Hình ảnh kết quả khi nhập dữ liệu hợp lệ và nhấn Hiển thị:**
 
 <!-- Đính kèm hình ảnh tại đây -->
-`![Kết quả hiển thị thông tin](hienthi.png)`
+![Kết quả hiển thị thông tin](image/hienthi.png)
 
 **Mô tả:**
 > Ghi chú dữ liệu đã nhập (Họ tên, Năm sinh, Email, Giới tính, Khoa) và kết quả hiển thị tương ứng.
@@ -66,7 +66,7 @@ Các điều kiện kiểm tra:
 **Hình ảnh minh họa thông báo lỗi khi dữ liệu không hợp lệ (ví dụ: bỏ trống họ tên):**
 
 <!-- Đính kèm hình ảnh tại đây -->
-`![Thông báo lỗi họ tên rỗng](đường_dẫn_ảnh.png)`
+![Thông báo lỗi họ tên rỗng](image/hotenrong.png)
 
 **Mô tả:**
 > Ghi chú trường hợp lỗi được minh họa và nội dung thông báo MessageBox tương ứng.
@@ -74,7 +74,7 @@ Các điều kiện kiểm tra:
 **Hình ảnh minh họa thông báo lỗi năm sinh không hợp lệ:**
 
 <!-- Đính kèm hình ảnh tại đây -->
-`![Thông báo lỗi năm sinh](đường_dẫn_ảnh.png)`
+![Thông báo lỗi năm sinh](image/namsinhsai.png)
 
 **Mô tả:**
 > Ghi chú trường hợp lỗi (năm sinh không phải số, hoặc ngoài khoảng 1900 - hiện tại) và thông báo tương ứng.
@@ -82,7 +82,7 @@ Các điều kiện kiểm tra:
 **Hình ảnh minh họa thông báo lỗi chưa chọn giới tính / khoa:**
 
 <!-- Đính kèm hình ảnh tại đây -->
-`![Thông báo lỗi chưa chọn giới tính hoặc khoa](đường_dẫn_ảnh.png)`
+![Thông báo lỗi chưa chọn giới tính hoặc khoa](image/gioitinh.png)
 
 **Mô tả:**
 > Ghi chú trường hợp lỗi được minh họa và nội dung thông báo tương ứng.
@@ -96,8 +96,8 @@ Mô tả cách xử lý sự kiện Click của nút `btnXoa`: đưa các TextBo
 **Hình ảnh trước và sau khi nhấn nút Xóa:**
 
 <!-- Đính kèm hình ảnh tại đây -->
-`![Trước khi nhấn Xóa](đường_dẫn_ảnh.png)`
-`![Sau khi nhấn Xóa](đường_dẫn_ảnh.png)`
+![Trước khi nhấn Xóa](image/hienthi.png)
+![Sau khi nhấn Xóa](image/xoa.png)
 
 **Mô tả:**
 > Ghi chú sự thay đổi của các control trước và sau khi nhấn nút Xóa.
@@ -111,17 +111,17 @@ Mô tả cách xử lý sự kiện Click của nút `btnThoat`: hiển thị h�
 **Hình ảnh hộp thoại xác nhận thoát chương trình:**
 
 <!-- Đính kèm hình ảnh tại đây -->
-`![Hộp thoại xác nhận thoát](đường_dẫn_ảnh.png)`
+![Hộp thoại xác nhận thoát](image/thoat.png)
 
 **Mô tả:**
-> Ghi chú nội dung hộp thoại xác nhận và hành vi khi chọn Yes/No.
+> Ghi chú nội dung hộp thoại xác nhận và chọn Yes/No.
 
 ---
 
 ## 7. Kết quả chạy chương trình 
 
 
-`![Kết quả ví dụ mẫu](hienthi.png)`
+![Kết quả ví dụ mẫu](image/hienthi.png)
 
 
 

@@ -12,9 +12,9 @@ using System;
 using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("Session01_helloWindow")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ed23d06c1f738ba49f2b7a10bd05963b7a24e808")]
 [assembly: System.Reflection.AssemblyProductAttribute("Session01_helloWindow")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Session01_helloWindow")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
