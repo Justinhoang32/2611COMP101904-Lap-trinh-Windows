@@ -89,22 +89,22 @@ Vì hai thuật toán ở chức năng 3 và 4 chỉ gọi `TinhLuong()` qua ki�
 
 **Bước 2 — Sau khi nhập đủ số nhân viên, chương trình mới hiển thị menu chính:**
 
-![Menu chính](images/01_menu.png)
+![Menu chính](00.png)
 
 **Chức năng 1 — Xuất danh sách nhân viên** (đa hình gọi đúng `HienThiThongTin()` của từng loại):
 
-![Xuất danh sách](images/02_danhsach.png)
+![Xuất danh sách](01.png)
 
 **Chức năng 2 — Tìm nhân viên theo mã** (ví dụ nhập `VP01`):
 
-![Tìm theo mã](images/03_timma.png)
+![Tìm theo mã](02.png)
 
 **Chức năng 3 — Tìm nhân viên có lương cao nhất** (so sánh bằng `TinhLuong()`, không cần biết loại NV):
 
-![Lương cao nhất](images/04_luongcaonhat.png)
+![Lương cao nhất](03.png)
 
 **Chức năng 4 — Tính tổng lương công ty phải trả** (cộng dồn `TinhLuong()` của cả 5 nhân viên: 10.400.000 + 10.100.000 + 7.000.000 + 6.100.000 + 3.000.000 = 36.600.000 đ):
 
-![Tổng lương](images/05_tongluong.png)
+![Tổng lương](04.png)
 
 ---
