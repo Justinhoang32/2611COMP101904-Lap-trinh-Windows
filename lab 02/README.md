@@ -1,11 +1,11 @@
 # Lab 02 - Quản lý mảng số nguyên bằng C# Console
 
 
-2611COMP101904-Lap-trinh-Windows
-Bài Lab: Lab 01 - Ứng dụng Thông tin Cá nhân
-Họ tên sinh viên: Hoàng Minh Nhật
-MSSV: 51.01.104.066
-Nhóm 5
+# 2611COMP101904-Lap-trinh-Windows
+# Bài Lab: Lab 02 - Quản lý mảng số nguyên bằng C# Console
+# Họ tên sinh viên: Hoàng Minh Nhật
+# MSSV: 51.01.104.066
+# Nhóm 5
 
 ## 1. Mô tả bài toán
 
