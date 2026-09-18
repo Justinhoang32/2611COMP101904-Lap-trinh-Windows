@@ -62,9 +62,9 @@ Chương trình được tách thành các phương thức nhỏ, mỗi phương
 
 > Chèn ảnh chụp màn hình kết quả chạy thử chương trình vào đây 
 
-```
-![Kết quả chạy chương trình](hienthi1.png)
-![Kết quả chạy chương trình](hienthi2.png)
-![Kết quả chạy chương trình](hienthi3.png)
-![Kết quả chạy chương trình](hienthi4.png)
-```
+
+![Kết quả chạy chương trình](image/hienthi1.png)
+![Kết quả chạy chương trình](image/hienthi2.png)
+![Kết quả chạy chương trình](image/hienthi3.png)
+![Kết quả chạy chương trình](image/hienthi4.png)
+
