@@ -1,6 +1,6 @@
-# LAB 05 - WINDOWS FORMS CƠ BẢN  
+# LAB 14    
 ## 2611COMP101904-Lap-trinh-Windows
-## Bài Lab: Lab 05 - Windows Forms Cơ Bản
+## Bài Lab: Lab 14 
 ## Họ tên sinh viên: Hoàng Minh Nhật
 ## MSSV: 51.01.104.066
 ## Nhóm 5
